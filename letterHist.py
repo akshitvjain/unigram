@@ -1,7 +1,6 @@
 """
-   A program that reads an input file full of symbols, and computes a variable
-   length code to represent the symbols.
-   file: vlc.py
+   A supporting turtle plotter program for letterFreq.py.
+   file: letterHist.py
    author: Akshit Vinit Jain
    language: python3
    created: November 2014
